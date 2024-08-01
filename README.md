@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikald&label=Profile%20views&color=0e75b6&style=flat" alt="kikald" /> </p>
 
-- 🔭 I’m currently working on **Axzolt Engine (A raytraced)**
+- 🔭 I’m currently working on **Axzolt Engine (A raytraced procedural generation engine)**
 
 - ✅ I have done **And a little 2d python game**
 
-- ✅ I have done **An ai playing tic tac toe**
+- ✅ I have done [An ai playing tic tac toe](https://github.com/KikalD/Morpion-Ai)
 
-- ✅ I have done **A little vulkan engine**
+- ✅ I have done [A little vulkan engine](https://github.com/KikalD/glowing_engine)
 
 - 📫 How to reach me **mauricetteboudiou@gmail.com**
 
