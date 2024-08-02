@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="Bonfire" src="cat.gif" />
-</p>
 
 <h1 align="center">Hi , I'm scrupikal</h1>
 <h3 align="center">Im 15 and i love developing ais , video games and game engines</h3>
