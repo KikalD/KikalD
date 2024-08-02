@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm scrupikal</h1>
+<p align="center">
+  <img alt="Bonfire" src="cat.gif" />
+</p>
+
+<h1 align="center">Hi , I'm scrupikal</h1>
 <h3 align="center">Im 15 and i love developing ais , video games and game engines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikald&label=Profile%20views&color=0e75b6&style=flat" alt="kikald" /> </p>
