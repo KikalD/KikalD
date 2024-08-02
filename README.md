@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Axzolt Engine (A raytraced procedural generation engine)**
 
-- ✅ I have done **And a little 2d python game**
+- ✅ I have done **A little 2d python game**
 
 - ✅ I have done [An ai playing tic tac toe](https://github.com/KikalD/Morpion-Ai)
 
