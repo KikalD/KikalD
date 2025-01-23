@@ -1,15 +1,13 @@
 
-<h1 align="center">Hi , I'm scrupikal</h1>
-<h3 align="center">Im 15 and i love developing ais , video games and game engines</h3>
+<h1 align="center">///Scrupikal</h1>
+<h3 align="center">Luv cars 🏎❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikald&label=Profile%20views&color=0e75b6&style=flat" alt="kikald" /> </p>
 
 - 🔭 I’m currently working on **Axzolt Engine**
 
 - ✅ I have done [A little 2d python (pygame) game](https://github.com/KikalD/BOMB-DASH)
-
 - ✅ I have done [An ai playing tic tac toe](https://github.com/KikalD/Morpion-Ai)
-
 - ✅ I have done [A little vulkan engine](https://github.com/KikalD/glowing_engine)
 
 - 📫 How to reach me **mauricetteboudiou@gmail.com**
