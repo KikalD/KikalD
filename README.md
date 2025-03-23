@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikald&label=Profile%20views&color=0e75b6&style=flat" alt="kikald" /> </p>
 
-- 🔭 I’m currently working on **Axzolt Engine**
+- 🔭 I’m currently working on **Opalis** (My minecraft server)
 
 - ✅ I have done [A little 2d python (pygame) game](https://github.com/KikalD/BOMB-DASH)
 - ✅ I have done [An ai playing tic tac toe](https://github.com/KikalD/Morpion-Ai)
